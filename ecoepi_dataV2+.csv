@@ -44,7 +44,7 @@ Reference number,Publication Year,Kingdom,Phylum/clade,Class/clade,Order,Family,
 2335,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Polistes dominula,,North America,bisulfite sequencing,,,,,,genome,,,,,
 2370,2020,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Neovison vison,LC,Asia,bisulfite sequencing,,,,,,,,,y,trait,y
 2298,2017,Plantae,Angiosperm,Magnoliopsida,Rosales,Rosaceae,Prunus avium L.,LC,South America,bisulfite sequencing;chromatin,,,y,,,,,,y,trait,y
-1042,2021,Animalia,Cnidaria,Aves,Procellariiformes,Procellariidae,Acropora millepora,NT,Australia,bisulfite sequencing;chromatin;reduced rep,,,,,,,,,,,
+1042,2021,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Acropora millepora,NT,Australia,bisulfite sequencing;chromatin;reduced rep,,,,,,,,,,,
 409,2015,Chromista,Heterokonta,Bacillariophycaeae,Bacillariales,Pahaeodactylaceae,Phaeodactylum tricornutum,,,bisulfite sequencing;HPLC;chromatin,,,,,,,,,,,
 395,2019,Animalia,Mollusca,Gastropoda,Littorinimorpha,Tateidae,Potamopyrgus antipodarum,LC,North America,chromatin,,,,,,,,,,,
 1008,2019,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Salmo salar,LC,Europe,chromatin,,y,y,,,,,,y,trait,y
