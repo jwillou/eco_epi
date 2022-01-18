@@ -1,5 +1,5 @@
 setwd("/Users/jannawilloughby/GDrive/Willoughby lab/eco-epi reivew/eco epi analysis/eco_epi/")
-data = read.table("ecoepi_dataV2+.csv", header=T, sep=",")
+data = read.table("supplementary table 2.csv", header=T, sep=",")
 #note: for studies with duplicated rows, remove duplicated info prior to analysis to avoid double counts!
 
 #unique studies
@@ -28,7 +28,7 @@ table(data$nuclear.marker[data$compare.nuclear.with.epi.variation=="y" & data$nu
 table(data$nuclear.epi.relationship.code[data$compare.nuclear.with.epi.variation=="y"])
 sum(table(data$nuclear.epi.relationship.code[data$compare.nuclear.with.epi.variation=="y"]))
 
-####3.had some focus or discussion on adaptation###
+####3.had some focus or discussion on adaptation####
 table(data$adaptation)
 table(data$fittness.or.trait.for.adaptation)
 table(data$adaptation.epi.related.[data$adaptation=="y"])

@@ -1,219 +1,116 @@
 Reference number,Publication Year,Kingdom,Phylum/clade,Class/clade,Order,Family,Genus species,IUCNglobal,continent_ocean,epigenetic methods condensed,host parasite disease,heritability,comp envs,age,compare nuclear with epi variation,nuclear marker,nuclear epi relationship,nuclear epi relationship code,adaptation,fittness or trait for adaptation,adaptation epi related?
-3,2013,Plantae,Angiosperm,Monocot,Poales,Poaceae,Zea mays,LC,,bisulfite sequencing,,,,,,,,,y,trait,y
-146,2015,Plantae,Angiosperm,Eudicot,Brassicales,Brassicaceae,Arabidopsis thaliana,,North America,bisulfite sequencing,,,,,y,known breeding lines,correlated_env_trait,both_env,y,trait,y
-151,2017,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Asia,bisulfite sequencing,,,,,,,,,y,trait,y
-176,2018,Animalia,Chordata,Mammalia,Primates,Hominidae,Pan troglodytes,EN,Asia,bisulfite sequencing,,,,y,,,,,,,
-192,2016,Plantae,Angiosperm,Eudicot,Brassicales,Brassicaceae,Arabidopsis thaliana,,Europe;Asia,bisulfite sequencing,,,,,,,,,y,,y
-217,2016,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus major,LC,Europe,bisulfite sequencing,,,,,,whole genome reseq,unknown,,y,trait,y
-252,2019,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Bombus terrestris,LC,Europe,bisulfite sequencing,,,,,,,,,y,trait,y
-272,2018,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,North America,bisulfite sequencing,,,,,,,,,y,trait,y
-300,2019,Animalia,Chordata,Actinopterygii,Anguilliformes,Anguilidae,Anguilla anguilla,CR,Europe,bisulfite sequencing,,,,,,,,,y,,y
-304,2014,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Megaptera novaeangliae,LC,North America,bisulfite sequencing,,,,y,,,,,,,
-335,2017,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo rustica,LC,Europe,bisulfite sequencing,,,,,,,,,,,
-382,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Polistes dominula,,North America,bisulfite sequencing,,,,,,,,,,,
-393,2020,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Balaenoptera bonaerensis,NT,Antarctica,bisulfite sequencing,,,,y,,,,,,,
-1001,2020,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus labrax,LC,Europe,bisulfite sequencing,,,,y,,gene seq,,,,,
-1007,2021,Animalia,Arthropoda,Insecta,Hemiptera,Pseudococcidae,Planococcus citri,,Europe,bisulfite sequencing,,,,,,,,,,,
-1011,2016,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia sialis,LC,North America,bisulfite sequencing,,,,,,gene seq,,,,,
-1018,2021,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Leptinotarsa decemlineata,,North America,bisulfite sequencing,,y,,,,,,,,,
-1031,2020,Animalia,Chordata,Actinopterygii,Cichliformes,Cichildae,Pseudocrenilabrus multicolor,LC,Africa,bisulfite sequencing,,,y,,,,,,y,trait,
-1035,2020,Plantae,Angiosperm,Eudicot,Rosales,Rosaceae,Fragaria vesca,,Europe,bisulfite sequencing,,,y,,,,,,y,trait,
-1052,2018,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,Astyanax mexicanus,LC,North America,bisulfite sequencing,,,y,,,,,,y,trait,y
-1058,2018,Plantae,Gymnosperm,Pinopsida,Pinales,Pinacae,Picea abies,LC,Europe,bisulfite sequencing,,,y,,,"micro, snp",,,y,,y
-1096,2019,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx canadensis,LC,North America,bisulfite sequencing,,,y,,y,SNP,not_correlated,notcor,y,trait,y
-1114,2017,Animalia,Chordata,Ascidiacea,Enterogona,Cionidae,Ciona robusta,,Europe;Africa;Australia,bisulfite sequencing,,,y,,,,,,y,,y
-1118,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Ceratina calcarata,,North America,bisulfite sequencing,,,,,,,,,,,
-1121,2016,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Lamprotornis superbus,LC,Africa,bisulfite sequencing,,,y,,,,,,y,fitness,y
-1123,2020,Plantae,Angiosperm,Eudicot,Lamiales,Plantaginaceae,Plantago lanceolata,LC,Europe,bisulfite sequencing,,y,y,,y,"whole genome, SNPs",correlated_positive,cor_positive,y,,y
-1125,2012,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,,bisulfite sequencing,,,,,,,,,,,
-1131,2020,Plantae,Angiosperm,Eudicot,Proteales,Nelumbonaceae,Nelumbo nucifera,,Asia,bisulfite sequencing,,,,,,,,,,,
-1133,2021,Animalia,Chordata,Mammalia,Diptrotodontia,Phascolarctidae,Phascolarctos cinereus,VU,Australia,bisulfite sequencing,,,,,,,,,,,
-1136,2018,Animalia,Chordata,Aves,Galliformes,Phasianidae,Lyrurus tetrix,LC,Europe,bisulfite sequencing,,,,,,micro,,,y,trait,y
-1138,2021,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia albicollis,LC,North America,bisulfite sequencing,,,,y,,,,,,,
-1146,2020,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Oncorhynchus tshawytscha,,North America,bisulfite sequencing,,y,,,,,,,,,
-1147,2021,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Oncorhynchus tshawytscha,,North America,bisulfite sequencing,,,y,,,,,,y,fitness,y
-1155,2021,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea gigas,,Asia,bisulfite sequencing,,,y,,,,,,y,,y
-1161,2020,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Africa;Europe;Australia,bisulfite sequencing,,n,y,,,,,,y,,y
-1163,2020,Plantae,Angiosperm,Monocot,Poales,Poaceaea,Oryza sativa,,Asia,bisulfite sequencing,,,y,,,,,,y,,y
-2096,2021,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Balaenoptera physalus,VU,Europe,bisulfite sequencing,,,y,y,,,,,,,
-2194,2021,Animalia,Chordata,Actinopteri,Salmoniformes,Salmonidae,Oncorhynchus kisutch,,North America,bisulfite sequencing,,,,,y,whole genome SNPs,unrelated,notcor,,,
-2197,2021,Plantae,Angiosperm,Magnoliopsida,Proteales,Nelumbonaceae,Nelumbo nucifera,,Asia;Australia;Europe,bisulfite sequencing,,,,,,,,,y,trait,
-2273,2013,Animalia,Platyhelminthes,Trematoda,Strigeidida,Schistosomatidae,Schistosoma mansoni,,South America,bisulfite sequencing,y,,,,y,microsat,,mixed_unknown,y,trait,
-2297,2017,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassotrea gigas,,Europe,bisulfite sequencing,,y,,,,,,,,,
-2301,2020,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Acanthochromis polyacanthus,LC,Australia,bisulfite sequencing,,n,y,,,,,,y,trait,y
-2335,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Polistes dominula,,North America,bisulfite sequencing,,,,,,genome,,,,,
-2370,2020,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Neovison vison,LC,Asia,bisulfite sequencing,,,,,,,,,y,trait,y
-2298,2017,Plantae,Angiosperm,Magnoliopsida,Rosales,Rosaceae,Prunus avium L.,LC,South America,bisulfite sequencing;chromatin,,,y,,,,,,y,trait,y
-1042,2021,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Acropora millepora,NT,Australia,bisulfite sequencing;chromatin;reduced rep,,,,,,,,,,,
-409,2015,Chromista,Heterokonta,Bacillariophycaeae,Bacillariales,Pahaeodactylaceae,Phaeodactylum tricornutum,,,bisulfite sequencing;HPLC;chromatin,,,,,,,,,,,
-395,2019,Animalia,Mollusca,Gastropoda,Littorinimorpha,Tateidae,Potamopyrgus antipodarum,LC,North America,chromatin,,,,,,,,,,,
-1008,2019,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Salmo salar,LC,Europe,chromatin,,y,y,,,,,,y,trait,y
-1094,2017,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Geospiza fortis,LC,Central America,chromatin,,,y,,,,,,y,trait,y
-1137,2019,Animalia,Echinodermata,Echinodea,Echinoida,Strongylocentroitidae,Strongylocentrotus purpuratus,,North America,chromatin,,y,y,,,,,,y,,y
-1139,2019,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta bicolor,LC,North America,chromatin,,,y,,,,,,y,trait,y
-2329,2014,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Geospiza fortis,LC,Central America,chromatin,,,,,y,CNV,not correlated,notcor,,,
-41,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Europe,demethylation/methylation,,,,,,,,,y,trait,y
-48,2010,Plantae,Angiosperm,Eudicot,Brassicales,Brassicaceae,Arabidopsis thaliana,,Europe;Asia;Africa,demethylation/methylation,,,,,y,known breeding lines,correlated_unknowndirection,cor_uk,y,fitness and trait,y
-1017,2021,Animalia,Chordata,Mammalia,Artiodactyla,Monodontidae,Delphinapterus leucas,LC,North America,demethylation/methylation,,,,y,,,,,,,
-1101,2019,Plantae,Angiosperm,Eudicot,Poales,Poaceae,Festuca rubra,,Europe,demethylation/methylation,,,y,,,,,,y,trait,y
-1115,2016,Animalia,Cnidaria,Anthozoa,Scleractinia,Pocilloporidae,Pocillopora damicornis,LC,North America,demethylation/methylation,,,y,,,,,,y,trait,y
 1,2018,Plantae,Angiosperm,Monocot,Poales,Poaceae,Spartina alterniflora,LC,North America,ELISA-like,,,,,,known breeding lines,unknown,,y,trait,y
-332,2018,Animalia,Cnidaria,Anthozoa,Scleractinia,Acroporidae,Acropora cervicornis,CR,North America,ELISA-like,,,,,,,,,,,
-1144,2017,Fungi,Glomeromycota,Glomeromycetes,Glomerales,Clariodeoglomeraceae,Claroideoglomus claroideum,,Europe,ELISA-like,y,y,,,,,,,,,
-1158,2019,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus major,LC,Europe,ELISA-like,,,,,,,,,y,,
-2022,2020,Animalia,Mollusca,Gastropoda,Pteropoda,Limacinidae,Limacina helicina antarctica,,Antarctica,ELISA-like,,,y,,,,,,,,
-2264,2020,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera carnica,,Europe,ELISA-like,,,,,,,,,,,
-2338,2019,Animalia,Mollusca,Bivalvia,Pterioida,Isognomonidae,Isognomon alatus,,North America,ELISA-like,,,y,,,,,,,,
+2,2017,Plantae,Angiosperm,Eudicot,Malpighiales,Salicaceae,Populustremuloides,LC,North America,MS-AFLP,,,,,y,known breeding lines,correlated_env_trait,both_env,,,
+3,2013,Plantae,Angiosperm,Monocot,Poales,Poaceae,Zea mays,LC,,bisulfite sequencing,,,,,,,,,y,trait,y
 6,2014,Plantae,Angiosperm,Eudicot,Ranunculales,Ranunculaceae,Helleborus foetidus,,Europe,HPLC,,,,,,,,,y,fitness,y
+7,2016,Plantae,Angiosperm,Eudicot,Ranunculales,Ranunculaceae,Helleborus foetidus,,Europe,HPLC;MS-AFLP,,,,,,,,,,,
 8,2018,Plantae,Angiosperm,Eudicot,Lamiales,Lamiaceae,Lavandula latifolia,LC,Europe,HPLC,,,,,,,,,y,fitness,y
 27,2017,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea gigas,,,HPLC,,,,,,,,,y,fitness,y
-75,2018,Animalia,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus fossarum,,Europe,HPLC,,,,,,,,,y,trait,y
-402,2009,Animalia,Arthropoda,Crustacea,Cladocera,Daphniidae,Daphnia magna,,,HPLC,,n,,,,,,,,,
-421,2018,Plantae,Gymnosperm,Pinopsida,Pinales,Pinaceae,Pinus sylvestris,LC,Europe,HPLC,,,y,,y,AFLP,correlated_positive,cor_positive,y,,y
-458,2020,Animalia,Annelida,Clitellata,Haplotaxida,Enchytraeidae,Enchytraeus crypt,,,HPLC,,,,,,,,,y,trait,y
-1071,2017,Plantae,Angiosperm,Eudicot,Sapindales,Sapindaceae,Acer rubrum,LC,North America,HPLC,,,y,,,,,,y,,y
-1075,2016,Plantae,Angiosperm,Eudicot,Sapindales,Sapindaceae,Acer rubum,LC,North America,HPLC,,,y,,,,,,y,,y
-1108,2020,Animalia,Arthropoda,Insecta,Lepidoptera,Pyralidae,Galleria mellonella,,,HPLC,y,,,,,,,,,,
-2002,2018,Plantae,Angiosperm,Pinopsida,Pinales,Pinaceae,Pinus sylvestris,LC,Europe,HPLC,,,y,,,,,,,,
-2006,2019,Plantae,Angiosperm,,,,,,Europe;North America,HPLC,,,,,,,,,,,
-2252,2012,Plantae,Angiosperm,Liliopsida,Arecales,Arecaceae,Metroxylon sagu,LC,Asia,HPLC,,,y,,,,,,y,trait,
-7,2016,Plantae,Angiosperm,Eudicot,Ranunculales,Ranunculaceae,Helleborus foetidus,,Europe,HPLC;MS-AFLP,,,,,,,,,,,
-375,2019,Animalia,Chordata,Actinopterygii,Gobiiformes,Gobiidae,Neogobius melanostomus,LC,Europe,MEBS,,,,,,,,,,,
-2,2017,Plantae,Angiosperm,Eudicot,Malpighiales,Salicaceae,Populustremuloides,LC,North America,MS-AFLP,,,,,y,known breeding lines,correlated_env_trait,both_env,,,
 33,2017,Animalia,Arthropoda,Malacostraca,Amphipoda,Tateidae,Talorchestia capensis,,Africa,MS-AFLP,,,,,y,AFLP,correlated_negative,cor_negative,y,trait,y
 40,2013,Plantae,Angiosperm,Monocot,Poales,Poaceae,Hierochloe glabra,,Asia,MS-AFLP,,,,,,,,,y,fitness,y
+41,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Europe,demethylation/methylation,,,,,,,,,y,trait,y
+48,2010,Plantae,Angiosperm,Eudicot,Brassicales,Brassicaceae,Arabidopsis thaliana,,Europe;Asia;Africa,demethylation/methylation,,,,,y,known breeding lines,correlated_unknowndirection,cor_uk,y,fitness and trait,y
 60,2013,Plantae,Angiosperm,Eudicot,Solanales,Solanaceae,Solanum kurtzianum and Solanum microdontum,,South America,MS-AFLP,,,,,y,AFLP,correlated_positive,cor_positive,y,trait,y
+75,2018,Animalia,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus fossarum,,Europe,HPLC,,,,,,,,,y,trait,y
+96,2017,Animalia,Cnidaria,Anthozoa,Scleractinia,Poritidae,Porites spp,LC,Central America,reduced rep,,,,,y,known breeding lines,not_correlated,notcor,y,trait,
 116,2018,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Rivulidae,Kryptolebias marmoratus,LC,North America,MS-AFLP,,,,,,,,,y,trait,y
 121,2016,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Borrichia frutescens,,North America,MS-AFLP,,,y,,y,AFLP,correlated_env_trait,both_env,y,trait,y
+121,,Plantae,Angiosperm,Monocot,Poales,Poaceae,Spartina alterniflora,LC,,,,,,,,,,,,,
 136,2018,Plantae,Angiosperm,Eudicot,Fagales,Fagaceae,Trifolium repens,LC,Europe,MS-AFLP,,y,,,,,,,y,trait,y
 140,2018,Plantae,Angiosperm,Eudicot,Dipscales,Caprifoliaceae,Scabiosa columbaria,,Europe,MS-AFLP,,n,y,,y,AFLP,correlated_env_trait,both_env,y,trait,y
+146,2015,Plantae,Angiosperm,Eudicot,Brassicales,Brassicaceae,Arabidopsis thaliana,,North America,bisulfite sequencing,,,,,y,known breeding lines,correlated_env_trait,both_env,y,trait,y
+151,2017,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Asia,bisulfite sequencing,,,,,,,,,y,trait,y
 160,2011,Plantae,Angiosperm,Eudicot,Malpighiales,Violaceae,Viola cazorlensis,,Europe,MS-AFLP,,y,y,,y,AFLP,correlated_positive,cor_positive,y,trait,y
 161,2013,Plantae,Angiosperm,Eudicot,Aquifoliales,Aquifoliaceae,Ilex aquifolium,LC,Europe,MS-AFLP,,,,,,,,,y,trait,y
 162,2016,Plantae,Angiosperm,Eudicot,Lamiales,Lamiaceae,Lavandulalatifolia,LC,Europe,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,trait,y
 163,2018,Plantae,Angiosperm,Eudicot,Lamiales,Lamiaceae,Lavandulalatifolia,LC,Europe,MS-AFLP,,y,,,,AFLP,unknown,,y,trait,y
 164,2014,Plantae,Angiosperm,Eudicot,Ranunculales,Ranunculaceae,Helleborus foetidus,LC,Europe,MS-AFLP,,,y,,,AFLP,unknown,,y,trait,y
+170,2018,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia reticulata,,Central America,reduced rep,y,,,,,,,,,,
 172,2015,Plantae,Angiosperm,Eudicot,Ericales,Ericaceae,Rhododendron oldhamii,,Asia,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,trait,y
 174,2017,Animalia,Chordata,Ascidiacea,Enterogona,Cionidae,Ciona savignyi,,Asia,MS-AFLP,,,,,,,,,y,,y
+176,2018,Animalia,Chordata,Mammalia,Primates,Hominidae,Pan troglodytes,EN,Asia,bisulfite sequencing,,,,y,,,,,,,
+192,2016,Plantae,Angiosperm,Eudicot,Brassicales,Brassicaceae,Arabidopsis thaliana,,Europe;Asia,bisulfite sequencing,,,,,,,,,y,,y
 194,2016,Animalia,Annelida,Polychaeta,Canalipalpata,Spionidae,Pygospio elegans,,Europe,MS-AFLP,,,,,,,,,,,
+217,2016,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus major,LC,Europe,bisulfite sequencing,,,,,,whole genome reseq,unknown,,y,trait,y
+225,2016,Animalia,Chordata,Mammalia,Primates,Ceropithecidae,Papio cynocephalus,LC,Africa,reduced rep,,,,,,,,,y,trait,y
 231,2018,Plantae,Angiosperm,Eudicot,Lamiales,Lamiaceae,Vitex negundo,LC,Asia,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,,
 240,2018,Plantae,Angiosperm,Monocot,Poales,Poaceae,Phragmites australis,LC,North America;Europe;Africa;Australia,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,trait,y
+252,2019,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Bombus terrestris,LC,Europe,bisulfite sequencing,,,,,,,,,y,trait,y
 254,2014,Plantae,Angiosperm,Eudicot,Malphiiales,Euphorbiaceae,Jatropha curcas,LC,Asia,MS-AFLP,,,,,,,,,y,trait,y
+254,,Plantae,Angiosperm,Eudicot,Malphiiales,Euphorbiaceae,Jatropha curcas,LC,,,,,,,,,,,,,
+256,2019,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer domesticus,LC,Europe,,,,,y,,,,,,,
 267,2014,Plantae,Angiosperm,Eudicot,Ranunculales,Ranunculaceae,Helleborus foetidus,LC,Europe,MS-AFLP,,,,,,,,,y,trait,y
+272,2018,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,North America,bisulfite sequencing,,,,,,,,,y,trait,y
 294,2010,Plantae,Angiosperm,Monocot,Asparagales,Orchidaceae,Dactylorhiza majalis,LC,Europe,MS-AFLP,,,,,,,,,y,trait,y
+294,,Plantae,Angiosperm,Monocot,Asparagales,Orchidaceae,Dactylorhiza traunsteineri,LC,,,,,,,,,,,,,
+294,,Plantae,Angiosperm,Monocot,Asparagales,Orchidaceae,Dactylorhiza ebudensis,,,,,,,,,,,,,,
+300,2019,Animalia,Chordata,Actinopterygii,Anguilliformes,Anguilidae,Anguilla anguilla,CR,Europe,bisulfite sequencing,,,,,,,,,y,,y
+303,2015,Plantae,Angiosperm,Eudicot,Fagales,Fagaceae,Quercus lobata,NT,North America,reduced rep,,,y,,y,reduced rep seq,correlated_positive,cor_positive,y,trait,y
+304,2014,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Megaptera novaeangliae,LC,North America,bisulfite sequencing,,,,y,,,,,,,
 308,2015,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Taraxacum officinale,LC,Europe,MS-AFLP,,y,y,,y,AFLP,correlated_positive,cor_positive,y,trait,y
 311,2016,Plantae,Angiosperm,Monocot,Poales,Poaceae,Phragmites australis,LC,Asia,MS-AFLP,,,y,,y,AFLP,correlated_env_trait,both_env,y,trait,y
 331,2017,Plantae,Angiosperm,Monocot,Poales,Poaceae,Spartina alterniflora,LC,North America,MS-AFLP,,,y,,y,AFLP,correlated_env_trait,both_env,y,trait,y
+332,2018,Animalia,Cnidaria,Anthozoa,Scleractinia,Acroporidae,Acropora cervicornis,CR,North America,ELISA-like,,,,,,,,,,,
+335,2017,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Hirundo rustica,LC,Europe,bisulfite sequencing,,,,,,,,,,,
 342,2005,Plantae,Angiosperm,Monocot,Poales,Poaceae,Spartina spp.,,Europe,MS-AFLP,,,,,y,AFLP,not_correlated,notcor,,,
 352,2014,Plantae,Angiosperm,Eudicot,Malpighiales,Violaceae,Viola elatior,,Europe,MS-AFLP,,,y,,y,AFLP,correlated_positive,cor_positive,y,trait,y
 359,2018,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer domesticus,LC,Australia,MS-AFLP,,,y,,y,micro,not_correlated,notcor,y,trait,y
+375,2019,Animalia,Chordata,Actinopterygii,Gobiiformes,Gobiidae,Neogobius melanostomus,LC,Europe,MEBS,,,,,,,,,,,
 378,2016,Plantae,Angiosperm,Monocot,Poales,Poaceae,Phragmites australis,LC,North America,MS-AFLP,,,,,,known breeding lines,,,,,
+382,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Vespidae,Polistes dominula,,North America,bisulfite sequencing,,,,,,,,,,,
+393,2020,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Balaenoptera bonaerensis,NT,Antarctica,bisulfite sequencing,,,,y,,,,,,,
+395,2019,Animalia,Mollusca,Gastropoda,Littorinimorpha,Tateidae,Potamopyrgus antipodarum,LC,North America,chromatin,,,,,,,,,,,
+402,2009,Animalia,Arthropoda,Crustacea,Cladocera,Daphniidae,Daphnia magna,,,HPLC,,n,,,,,,,,,
 403,2009,Animalia,Arthropoda,Crustacea,Cladocera,Daphniidae,Daphnia magna,,,MS-AFLP,,,,,,,,,,,
 404,2018,Plantae,Angiosperm,Eudicot,Malpighiales,Salicaceae,Populus nigra cv. Italica,DD,Europe;Asia,MS-AFLP,,y,,,,known breeding lines,,,,,
+409,2015,Chromista,Heterokonta,Bacillariophycaeae,Bacillariales,Pahaeodactylaceae,Phaeodactylum tricornutum,,,bisulfite sequencing;HPLC;chromatin,,,,,,,,,,,
 412,2010,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Taraxacum officinale,LC,,MS-AFLP,,y,,,,known breeding lines,,,,,
+421,2018,Plantae,Gymnosperm,Pinopsida,Pinales,Pinaceae,Pinus sylvestris,LC,Europe,HPLC,,,y,,y,AFLP,correlated_positive,cor_positive,y,,y
 432,2014,Animalia,Chordata,Aves,Galliformes,Phasianidae,Lagopus lagopus scotica,LC,Europe,MS-AFLP,y,,,,,,,,,,
+434,2016,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia aperea,LC,South America,reduced rep,,y,,,,,,,,,
 438,2016,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Taraxacum officinale,LC,Europe,MS-AFLP,,y,,,,known breeding lines,,,,,
 446,2018,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea gigas,,Asia,MS-AFLP,,,,,,,,,,,
 447,2018,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea gigas,,Asia,MS-AFLP,,,,,,,,,,,
 452,2018,Plantae,Angiosperm,Monocot,Liliales,Liliaceae,Lilium bosniacum,,Europe,MS-AFLP,,,,,,,,,,,
+458,2020,Animalia,Annelida,Clitellata,Haplotaxida,Enchytraeidae,Enchytraeus crypt,,,HPLC,,,,,,,,,y,trait,y
 1000,2014,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Bombus terrestris,,Europe,MS-AFLP,,,,,,,,,,,
+1001,2020,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus labrax,LC,Europe,bisulfite sequencing,,,,y,,gene seq,,,,,
+1002,2021,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus labrax,LC,Europe,reduced rep,,,y,,,,,,y,trait,y
+1003,2017,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,Europe,reduced rep,,,y,,,,,,y,trait,y
+1007,2021,Animalia,Arthropoda,Insecta,Hemiptera,Pseudococcidae,Planococcus citri,,Europe,bisulfite sequencing,,,,,,,,,,,
+1008,2019,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Salmo salar,LC,Europe,chromatin,,y,y,,,,,,y,trait,y
+1011,2016,Animalia,Chordata,Aves,Passeriformes,Turdidae,Sialia sialis,LC,North America,bisulfite sequencing,,,,,,gene seq,,,,,
 1013,2019,Animalia,Chordata,Actinopterygii,Cypriniformes,Rivulidae,Kryptolebias hermaphroditus,,South America,MS-AFLP,y,,y,,y,"micro, AFLP",correlated_positive,cor_positive,y,trait,y
+1017,2021,Animalia,Chordata,Mammalia,Artiodactyla,Monodontidae,Delphinapterus leucas,LC,North America,demethylation/methylation,,,,y,,,,,,,
+1018,2021,Animalia,Arthropoda,Insecta,Coleoptera,Chrysomelidae,Leptinotarsa decemlineata,,North America,bisulfite sequencing,,y,,,,,,,,,
 1021,2021,Plantae,Angiosperm,Monocot,Poales,Poaceae,Hordeum murinum,LC,Europe,MS-AFLP,,,,,,AFLP,,,,,
 1027,2012,Plantae,Angiosperm,Monocot,Poales,Poaceae,Poa annua,LC,Europe;Antarctica,MS-AFLP,,,y,,y,AFLP,correlated_negative,cor_negative,y,trait,y
 1028,2018,Animalia,Chordata,Gastropoda,,Nacellidae,Nacella concinna,,Antarctica,MS-AFLP,,,y,,,,,,y,trait,y
+1031,2020,Animalia,Chordata,Actinopterygii,Cichliformes,Cichildae,Pseudocrenilabrus multicolor,LC,Africa,bisulfite sequencing,,,y,,,,,,y,trait,
+1034,2014,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus norvegicus,LC,,reduced rep,y,,,,,,,,,,
+1035,2020,Plantae,Angiosperm,Eudicot,Rosales,Rosaceae,Fragaria vesca,,Europe,bisulfite sequencing,,,y,,,,,,y,trait,
+1038,2019,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Ardenna tenuirostris,LC,Australia,reduced rep,,,,y,,,,,,,
+1042,2021,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Acropora millepora,NT,Australia,bisulfite sequencing;chromatin;reduced rep,,,,,,,,,,,
 1048,2020,Plantae,Angiosperm,Eudicot,Brassicales,Brassicaceae,Thlaspi arvense,,Asia,MS-AFLP,,y,,,,,,,,,
+1052,2018,Animalia,Chordata,Actinopterygii,Characiformes,Characidae,Astyanax mexicanus,LC,North America,bisulfite sequencing,,,y,,,,,,y,trait,y
 1054,2013,Plantae,Angiosperm,Monocot,Alismatales,Posidoniaceae,Posidonia oceanica,LC,Europe,MS-AFLP,,,y,,,,,,y,trait,y
+1055,2016,Plantae,Angiosperm,Eudicot,Fagales,Fagaceae,Quercus lobata,NT,North America,reduced rep,,,y,,,,,,y,,y
+1058,2018,Plantae,Gymnosperm,Pinopsida,Pinales,Pinacae,Picea abies,LC,Europe,bisulfite sequencing,,,y,,,"micro, snp",,,y,,y
 1060,2012,Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Metschnikowiaceae,Metschnikowia reukaufii,,Europe,MS-AFLP,y,,y,,,AFLP,,,y,trait,y
+1062,2019,Animalia,Chordata,Lepidosauria,Squamata,Dactyloidae,Anolis sagrei,LC,Central America,reduced rep,,,,,,,,,y,,y
 1067,2021,Plantae,Angiosperm,Eudicot,Solanales,Solanaceae,Solanum kurtzianum,,South America,MS-AFLP,,y,y,,,,,,y,trait,y
+1070,2020,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea virginica,,North America,reduced rep,,,y,,y,SNP,not_correlated,notcor,y,,y
+1071,2017,Plantae,Angiosperm,Eudicot,Sapindales,Sapindaceae,Acer rubrum,LC,North America,HPLC,,,y,,,,,,y,,y
+1075,2016,Plantae,Angiosperm,Eudicot,Sapindales,Sapindaceae,Acer rubum,LC,North America,HPLC,,,y,,,,,,y,,y
+1076,2016,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canus lupus,LC,North America,reduced rep,,y,,,,,,,y,,y
+1076,,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canus familiaris,,,,,,,,,,,,,,
 1082,2019,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Crocuta crocuta,LC,Africa,MS-AFLP,,,,,,,,,,,
 1083,2016,Animalia,Chordata,Actinopterygii,Cypriniformes,Leuciscidae,Chrosomus eos-neogaeus,LC,North America,MS-AFLP,,,y,,y,micro,not_correlated,notcor,y,,y
 1085,2013,Plantae,Angiosperm,Eudicot,Caryophyllales,Amaranthaceae,Alternanthera philoxeroides,,Asia,MS-AFLP,,,y,,,,,,y,trait,y
 1086,2008,Plantae,Angiosperm,Eudicot,Poales,Poaceae,Hordeum brevisubulatum,LC,Asia,MS-AFLP,,,y,,,SNP,unknown,,y,,y
-1095,2020,Plantae,Angiosperm,Eudicot,Ranunculales,Ranunculaceae,Aquilegia pyrenaica subsp. cazorlensis,EN,Europe,MS-AFLP,,,y,,y,AFLP,correlated_positive,cor_positive,y,,
-1103,2018,Plantae,Angiosperm,Monocot,Poales,Poaceae,Pennisetum glaucum,LC,Africa,MS-AFLP,y,,,,,,,,,,
-1104,2018,Animalia,Chordata,Ascidiacea,Phlebobranchia,Cionidae,Ciona robusta,,Asia,MS-AFLP,,,y,,y,micro,correlated_positive,cor_positive,y,,y
-1105,2015,Plantae,Angiosperm,Eudicot,Asterales,Campanulaceae,Wahlenbergia ceracea,,Australia,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,,y
-1107,2018,Fungi,Ascomycota,Sordariomycetes,Diaporthales,Cryphonectriaceae,Cryphonectria parasitica,,Europe,MS-AFLP,y,,,,,,,,,,
-1109,2020,Plantae,Angiosperm,Eudicot,Malpighiales,Linaceae,Linum catharticum,,Europe,MS-AFLP,,,y,,y,AFLP,correlated_positive,cor_positive,y,,y
-1111,2010,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus maritimus,VU,Central America,MS-AFLP,,,,,,,,,,,
-1112,2018,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Taraxacum officinale,LC,Europe,MS-AFLP,,n,y,,,,,,y,,y
-1117,2017,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Chrysanthemum nankingense,,Asia,MS-AFLP,,,y,,,,,,y,trait,y
-1119,2012,Plantae,Angiosperm,Eudicot,Caryophyllales,Polygonaceae,Fallopia japonica,,North America,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,,y
-1129,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Encrytidae,Copidosoma koehleri,,Africa,MS-AFLP,,y,,,,,,,,,
-1130,2018,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Cyprinus carpio,VU,Asia,MS-AFLP,,y,,,,,,,,,
-1135,2016,Animalia,Chordata,Actinopterygii,Perciformes,Percidae,Etheostoma olmstedi,LC,North America,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,trait,y
-1143,2013,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sarcophilus harrisii,EN,Australia,MS-AFLP,y,,,,,,,,,,
-1148,2012,Plantae,Angiosperm,Eudicot,Dipscales,Caprifoliaceae,Scabiosa columbaria,,Europe,MS-AFLP,,,,,y,pedigree,correlated_negative,cor_negative,,,
-1149,2010,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Taraxacum officinale,,Europe,MS-AFLP,,n,,,,AFLP,,,,,
-1154,2020,Plantae,Angiosperm,Eudicot,Apiales,Apiaceae,Hydrocotyle vulgaris,LC,Asia,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,trait,y
-2003,2019,Plantae,Angiosperm,Magnoliopsida,Sapindales,Anacardiaceae,Pistacia lentiscus,LC,Europe,MS-AFLP,,y,,,y,micro,not_correlated,notcor,y,trait,y
-2007,2016,Plantae,Angiosperm,Eudicot,Brassicales,Brassiccaceae,Boechera stricta,,North America,MS-AFLP,,y,,,,,,,y,trait,y
-2014,2015,Plantae,Angiosperm,Magnoliopsida,Rosales,Rosaceae,Prunus avium,LC,Europe,MS-AFLP,,,,,y,micro,not_correlated,notcor,,,
-2019,2021,Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Negaprion brevirostris,VU,Central America,MS-AFLP,,,y,,,,,,,,
-2042,2020,Plantae,Angiosperm,Magnoliopsida,Ranunculales,Papaveraceae,Corydalis yanhusuo,,Asia,MS-AFLP,,,y,,y,AFLP,not_correlated ,notcor,y,trait,y
-2053,2015,Animalia,Chordata,Cephalaspidomorphi,Petromyzontiformes,Petromyzontidae,Petromyzon marinus,LC,Europe,MS-AFLP,,,,,,,,,y,trait,y
-2093,2010,Plantae,Angiosperm,Magnoliopsida,Caryophyllales,Amaranthaceae,Alternanthera philoxeroides,,Asia,MS-AFLP,,,y,,,AFLP,,,y,,y
-2097,2019,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus pustulosus,LC,South America;North America,MS-AFLP,y,,y,,,,,,y,,
-2099,2019,Plantae,Angiosperm,Magnoliopsida,Lamiales,Plantaginaceae,Plantago lanceolata,,Europe,MS-AFLP,,,y,,y,AFLP,not correlated,notcor,y,,y
-2109,2017,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea virginica,,North America,MS-AFLP,,,y,,,,,,,,y
-2115,2018,Plantae,Angiosperm,Eudicot,Poales,Poaceae,Hordeum brevisubulatum,LC,Asia,MS-AFLP,,,y,,y,"AFLP, SSAP",weakly correlated_positive,cor_positive,,,y
-2131,2017,Plantae,Angiosperm,Eudicot,Ranunculales,Ranunculaceae,Helleborus foetidus,,Europe,MS-AFLP,,,y,,y,micro,unrelated mostly,notcor,y,trait,y
-2166,2017,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Australia,MS-AFLP,,,,,,,,,y,trait,
-2167,2017,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Australia,MS-AFLP,,,,,,,,,y,trait,
-2196,2021,Plantae,Angiosperm,Magnoliopsida,Poales,Poaceae,Hordeum vulgare,,Asia,MS-AFLP,,,,,y,micro,yes positively,cor_positive,,,
-2206,2013,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer domesticus,LC,Africa,MS-AFLP,,,,,y,micro,"negatively related, correlation r=-0.8",cor_negative,y,,y
-2217,2012,Animalia,Arthropoda,Insecta,Blattodea,Rhinotermitidae,Coptotermes lacteus,,Australia,MS-AFLP,,,,,,,,,,,
-2249,2021,Plantae,Angiosperm,Magnoliopsida,Poales,Poaceae,Deyeuxia angustifolia,,Asia,MS-AFLP,,,y,,y,AFLP,unrelated,notcor,y,,
-2250,2019,Animalia,Chordata,Ascidiacea,Phlebobranchia,Cionidae,Ciona intestinalis,,North America,MS-AFLP,,,y,,,,,,y,trait,y
-2293,2020,Animalia,Cnidaria,Anthozoa,Scleractinia,Acroporidae,Acropora cervicornis,CR,North America,MS-AFLP,,,y,,y,microsat,genets signficantly influences DNA methylation,cor_uk,,,y
-2296,2013,Plantae,Angiosperm,Magnoliopsida,Caryophyllales,Plumbaginaceae,multiple species/hybrids,,South America,MS-AFLP,,,,,,MSAP MspI vs HpaII enzyme ,"correlated positive (high gene flow), negative (low gene flow), and no correlation depending on species and gene flow",,,,
-2304,2005,Plantae,Angiosperm,Monocot,Poales,Poaceae,"Spartina (several sp: maritima, alterniflora, neyrautii, townsendii)",,Europe,MS-AFLP,,,,,y,AFLP,,mixed_unknown,,,
-2314,2016,Animalia,Chordata,Reptilia,Squamata,Phrynosomatidae,Sceloporus undulatus,LC,North America,MS-AFLP,,,,,,,,,y,fitness,y
-2342,2020,Plantae,Angiosperm,Magnoliopsida,Ranunculales,Ranunculaceae,Ranunculus kuepferi,,Europe,MS-AFLP,,,y,,,,,,,,y
-2365,2016,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Lepidochelys olivacea,VU,North America,MS-AFLP,,,y,,,,,,,,
-2366,2015,Plantae,Angiosperm,Liliopsida,Poales,Poaceae,Triticum turgidum ssp. dicoccoides,LC,Asia,MS-AFLP,,,y,,,,,,,,
-2368,2015,Plantae,Angiosperm,Magnoliopsida,Rosales,Rosaceae,multiple,,Europe,MS-AFLP,,y,,,y,"cDNA-AFLP, microsat",correlated_positive,cor_positive,,,
-2388,2018,Animalia,Chordata,Actinopterygii,Acipenseriformes,Acipenseridae,Acipenser fulvescens,LC,North America,MS-AFLP,,,,,y,microsat,unknown,notcor,,,
-2391,2013,Plantae,Angiosperm,Magnoliopsida,Fagales,Betulaceae,Betula ermanii,LC,Asia,MS-AFLP,,,y,,,AFLP,,,y,,y
-96,2017,Animalia,Cnidaria,Anthozoa,Scleractinia,Poritidae,Porites spp,LC,Central America,reduced rep,,,,,y,known breeding lines,not_correlated,notcor,y,trait,
-170,2018,Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Poeciliidae,Poecilia reticulata,,Central America,reduced rep,y,,,,,,,,,,
-225,2016,Animalia,Chordata,Mammalia,Primates,Ceropithecidae,Papio cynocephalus,LC,Africa,reduced rep,,,,,,,,,y,trait,y
-303,2015,Plantae,Angiosperm,Eudicot,Fagales,Fagaceae,Quercus lobata,NT,North America,reduced rep,,,y,,y,reduced rep seq,correlated_positive,cor_positive,y,trait,y
-434,2016,Animalia,Chordata,Mammalia,Rodentia,Caviidae,Cavia aperea,LC,South America,reduced rep,,y,,,,,,,,,
-1002,2021,Animalia,Chordata,Actinopterygii,Perciformes,Moronidae,Dicentrarchus labrax,LC,Europe,reduced rep,,,y,,,,,,y,trait,y
-1003,2017,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,Europe,reduced rep,,,y,,,,,,y,trait,y
-1034,2014,Animalia,Chordata,Mammalia,Rodentia,Muridae,Rattus norvegicus,LC,,reduced rep,y,,,,,,,,,,
-1038,2019,Animalia,Chordata,Aves,Procellariiformes,Procellariidae,Ardenna tenuirostris,LC,Australia,reduced rep,,,,y,,,,,,,
-1055,2016,Plantae,Angiosperm,Eudicot,Fagales,Fagaceae,Quercus lobata,NT,North America,reduced rep,,,y,,,,,,y,,y
-1062,2019,Animalia,Chordata,Lepidosauria,Squamata,Dactyloidae,Anolis sagrei,LC,Central America,reduced rep,,,,,,,,,y,,y
-1070,2020,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea virginica,,North America,reduced rep,,,y,,y,SNP,not_correlated,notcor,y,,y
-1076,2016,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canus lupus,LC,North America,reduced rep,,y,,,,,,,y,,y
-1097,2017,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,North America,reduced rep,,,y,,,,,,y,trait,y
-1099,2019,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Formica exsecta,,Europe,reduced rep,,,,,,,,,,,
-1124,2020,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,Europe,reduced rep,y,,,,,,,,y,trait,y
-1127,2021,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus major,LC,Europe,reduced rep,,y,,,,,,,y,trait,
-1134,2015,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,North America,reduced rep,,,y,,,,,,y,,y
-1142,2016,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,Europe,reduced rep,,,y,,,,,,,,
-1151,2019,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Papio anubis,LC,Africa,reduced rep,,,,,y,SNP,correlated_positive,cor_positive,,,
-1157,2021,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus major,LC,Europe,reduced rep,,,y,,,,,,y,,y
-1159,2016,Animalia,Chordata,Mammalia,Caviidae,Cavia,Cavia aperea,LC,South America,reduced rep,,y,y,,,,,,y,,y
-1160,2020,Animalia,Chordata,Reptilia,Squamata,Dactyloidae,Anolis cristatellus,LC,South America,reduced rep,,,y,,y,SNP,correlated_env_trait,both_env,y,,y
-2029,2021,Plantae,Angiosperm,Magnoliopsida,Fagales,Fagaceae,Quercus lobata,NT,North America,reduced rep,,,,,y,SNP,sometimes correlated,mixed_unknown,,,
-2055,2021,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Coregonus lavaretus,VU,Europe,reduced rep,,,y,,,ddRADseq,,,y,trait,
-2062,2020,Animalia,Cnidaria,Anthozoa,Scleractinia,Poritidae,Porites astreoides,LC,North America,reduced rep,,,y,,y,ddRAD-seq,correlated_positive,cor_positive,,,
-2156,2020,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea virginica,,North America,reduced rep,y,,,,,,,,,,
-2159,2020,Plantae,Angiosperm,Eudicot,Brassicales,Brassicaceae,Arabidopsis thaliana,,Europe,reduced rep,,,,,y,whole genome SNPs,unrelated in cloned species,notcor,,,
-2223,2021,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Balaenoptera physalus,VU,Europe,reduced rep,,,,,,,,,,,
-2236,2021,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus parvulus,LC,South America,reduced rep,y,,,,,,,,,,
-2299,2020,Plantae,Angiosperm,Magnoliopsida,Rosales,Rosaceae,Prunus avium L.,LC,South America,reduced rep,,,y,,,,,,y,trait,
-2303,2020,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,Europe,reduced rep,y,,,,,,,,y,fitness,y
-2309,2020,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella marina,LC,Australia,reduced rep,,,y,,,,,,y,fitness,y
-121,,Plantae,Angiosperm,Monocot,Poales,Poaceae,Spartina alterniflora,LC,,,,,,,,,,,,,
-254,,Plantae,Angiosperm,Eudicot,Malphiiales,Euphorbiaceae,Jatropha curcas,LC,,,,,,,,,,,,,
-256,2019,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer domesticus,LC,Europe,,,,,y,,,,,,,
-294,,Plantae,Angiosperm,Monocot,Asparagales,Orchidaceae,Dactylorhiza traunsteineri,LC,,,,,,,,,,,,,
-294,,Plantae,Angiosperm,Monocot,Asparagales,Orchidaceae,Dactylorhiza ebudensis,,,,,,,,,,,,,,
-1076,,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canus familiaris,,,,,,,,,,,,,,
+1094,2017,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Geospiza fortis,LC,Central America,chromatin,,,y,,,,,,y,trait,y
 1094,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Geospiza fuliginosa,LC,,,,,,,,,,,,,
+1095,2020,Plantae,Angiosperm,Eudicot,Ranunculales,Ranunculaceae,Aquilegia pyrenaica subsp. cazorlensis,EN,Europe,MS-AFLP,,,y,,y,AFLP,correlated_positive,cor_positive,y,,
 1095,,Plantae,Angiosperm,Eudicot,Fabales,Fabaceae,Anthyllis ramburii,,,,,,,,,,,,,,
 1095,,Plantae,Angiosperm,Eudicot,Fabales,Fabaceae,Anthyllis vulneraria,,,,,,,,,,,,,,
 1095,,Plantae,Angiosperm,Eudicot,Geraniales,Geraniaceae,Erodium cazorlanum,,,,,,,,,,,,,,
@@ -227,24 +124,124 @@ Reference number,Publication Year,Kingdom,Phylum/clade,Class/clade,Order,Family,
 1095,,Plantae,Angiosperm,Eudicot,Solanales,Convolvulaceae,Convolvulus arvensis,,,,,,,,,,,,,,
 1095,,Plantae,Angiosperm,Eudicot,Solanales,Convolvulaceae,Teucrium rotundifolium,,,,,,,,,,,,,,
 1095,,Plantae,Angiosperm,Eudicot,Solanales,Convolvulaceae,Teucrium similatum,,,,,,,,,,,,,,
+1096,2019,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx canadensis,LC,North America,bisulfite sequencing,,,y,,y,SNP,not_correlated,notcor,y,trait,y
+1097,2017,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,North America,reduced rep,,,y,,,,,,y,trait,y
+1099,2019,Animalia,Arthropoda,Insecta,Hymenoptera,Formicidae,Formica exsecta,,Europe,reduced rep,,,,,,,,,,,
+1101,2019,Plantae,Angiosperm,Eudicot,Poales,Poaceae,Festuca rubra,,Europe,demethylation/methylation,,,y,,,,,,y,trait,y
+1103,2018,Plantae,Angiosperm,Monocot,Poales,Poaceae,Pennisetum glaucum,LC,Africa,MS-AFLP,y,,,,,,,,,,
+1104,2018,Animalia,Chordata,Ascidiacea,Phlebobranchia,Cionidae,Ciona robusta,,Asia,MS-AFLP,,,y,,y,micro,correlated_positive,cor_positive,y,,y
 1104,,Animalia,Chordata,Ascidiacea,Phlebobranchia,Cionidae,Ciona intestinalis,,Europe;North America,,,,,,,,,,,,
 1104,,Animalia,Chordata,Ascidiacea,Phlebobranchia,Cionidae,Ciona robusta,,Africa;Europe,,,,,,,,,,,,
+1105,2015,Plantae,Angiosperm,Eudicot,Asterales,Campanulaceae,Wahlenbergia ceracea,,Australia,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,,y
+1107,2018,Fungi,Ascomycota,Sordariomycetes,Diaporthales,Cryphonectriaceae,Cryphonectria parasitica,,Europe,MS-AFLP,y,,,,,,,,,,
+1108,2020,Animalia,Arthropoda,Insecta,Lepidoptera,Pyralidae,Galleria mellonella,,,HPLC,y,,,,,,,,,,
+1109,2020,Plantae,Angiosperm,Eudicot,Malpighiales,Linaceae,Linum catharticum,,Europe,MS-AFLP,,,y,,y,AFLP,correlated_positive,cor_positive,y,,y
+1111,2010,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus maritimus,VU,Central America,MS-AFLP,,,,,,,,,,,
+1112,2018,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Taraxacum officinale,LC,Europe,MS-AFLP,,n,y,,,,,,y,,y
+1114,2017,Animalia,Chordata,Ascidiacea,Enterogona,Cionidae,Ciona robusta,,Europe;Africa;Australia,bisulfite sequencing,,,y,,,,,,y,,y
+1115,2016,Animalia,Cnidaria,Anthozoa,Scleractinia,Pocilloporidae,Pocillopora damicornis,LC,North America,demethylation/methylation,,,y,,,,,,y,trait,y
 1115,,Animalia,Cnidaria,Anthozoa,Scleractinia,Acroporidae,Montipora capitata,NT,,,,,,,,,,,,,
+1117,2017,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Chrysanthemum nankingense,,Asia,MS-AFLP,,,y,,,,,,y,trait,y
+1118,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Ceratina calcarata,,North America,bisulfite sequencing,,,,,,,,,,,
+1119,2012,Plantae,Angiosperm,Eudicot,Caryophyllales,Polygonaceae,Fallopia japonica,,North America,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,,y
+1121,2016,Animalia,Chordata,Aves,Passeriformes,Sturnidae,Lamprotornis superbus,LC,Africa,bisulfite sequencing,,,y,,,,,,y,fitness,y
+1123,2020,Plantae,Angiosperm,Eudicot,Lamiales,Plantaginaceae,Plantago lanceolata,LC,Europe,bisulfite sequencing,,y,y,,y,"whole genome, SNPs",correlated_positive,cor_positive,y,,y
+1124,2020,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,Europe,reduced rep,y,,,,,,,,y,trait,y
+1125,2012,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,,bisulfite sequencing,,,,,,,,,,,
 1125,,Animalia,Arthropoda,Insecta,Lepidoptera,Bombycidae,Bombyx mori,,,,,,,,,,,,,,
 1125,,Animalia,Chordata,Ascidiacea,Enterogona,Cionidae,Ciona intestinalis,,,,,,,,,,,,,,
 1125,,Animalia,Cnidaria,Anthozoa,Actinaria,Edwardsiidae,Nematostella vectensis,VU,,,,,,,,,,,,,
+1127,2021,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus major,LC,Europe,reduced rep,,y,,,,,,,y,trait,
+1129,2016,Animalia,Arthropoda,Insecta,Hymenoptera,Encrytidae,Copidosoma koehleri,,Africa,MS-AFLP,,y,,,,,,,,,
+1130,2018,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Cyprinus carpio,VU,Asia,MS-AFLP,,y,,,,,,,,,
 1130,,Animalia,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Carassius gibelio,,,,,,,,,,,,,,
+1131,2020,Plantae,Angiosperm,Eudicot,Proteales,Nelumbonaceae,Nelumbo nucifera,,Asia,bisulfite sequencing,,,,,,,,,,,
+1133,2021,Animalia,Chordata,Mammalia,Diptrotodontia,Phascolarctidae,Phascolarctos cinereus,VU,Australia,bisulfite sequencing,,,,,,,,,,,
+1134,2015,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,North America,reduced rep,,,y,,,,,,y,,y
+1135,2016,Animalia,Chordata,Actinopterygii,Perciformes,Percidae,Etheostoma olmstedi,LC,North America,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,trait,y
+1136,2018,Animalia,Chordata,Aves,Galliformes,Phasianidae,Lyrurus tetrix,LC,Europe,bisulfite sequencing,,,,,,micro,,,y,trait,y
+1137,2019,Animalia,Echinodermata,Echinodea,Echinoida,Strongylocentroitidae,Strongylocentrotus purpuratus,,North America,chromatin,,y,y,,,,,,y,,y
+1138,2021,Animalia,Chordata,Aves,Passeriformes,Passerellidae,Zonotrichia albicollis,LC,North America,bisulfite sequencing,,,,y,,,,,,,
+1139,2019,Animalia,Chordata,Aves,Passeriformes,Hirundinidae,Tachycineta bicolor,LC,North America,chromatin,,,y,,,,,,y,trait,y
+1142,2016,Animalia,Chordata,Actinopterygii,Gasterosteiformes,Gasterosteidae,Gasterosteus aculeatus,LC,Europe,reduced rep,,,y,,,,,,,,
 1142,,Plantae,Angiosperm,Eudicot,Asparagales,Orchidaeae,Dactylorhiza majalis,LC,,,,,,,,,,,,,
 1142,,Plantae,Angiosperm,Eudicot,Asparagales,Orchidaeae,Dactylorhiza traunsteineri,,,,,,,,,,,,,,
 1142,,Plantae,Angiosperm,Eudicot,Caryophyllales,Caryophyllaceae,Heliosperma pusillum,,,,,,,,,,,,,,
 1142,,Plantae,Angiosperm,Eudicot,Caryophyllales,Caryophyllaceae,Heliosperma veselskyi,,,,,,,,,,,,,,
+1143,2013,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Sarcophilus harrisii,EN,Australia,MS-AFLP,y,,,,,,,,,,
+1144,2017,Fungi,Glomeromycota,Glomeromycetes,Glomerales,Clariodeoglomeraceae,Claroideoglomus claroideum,,Europe,ELISA-like,y,y,,,,,,,,,
 1144,,Fungi,Glomeromycota,Glomeromycetes,Glomerales,Glomeraceae,Glomus hoi,,,,,,,,,,,,,,
+1146,2020,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Oncorhynchus tshawytscha,,North America,bisulfite sequencing,,y,,,,,,,,,
+1147,2021,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Oncorhynchus tshawytscha,,North America,bisulfite sequencing,,,y,,,,,,y,fitness,y
+1148,2012,Plantae,Angiosperm,Eudicot,Dipscales,Caprifoliaceae,Scabiosa columbaria,,Europe,MS-AFLP,,,,,y,pedigree,correlated_negative,cor_negative,,,
+1149,2010,Plantae,Angiosperm,Eudicot,Asterales,Asteraceae,Taraxacum officinale,,Europe,MS-AFLP,,n,,,,AFLP,,,,,
+1151,2019,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Papio anubis,LC,Africa,reduced rep,,,,,y,SNP,correlated_positive,cor_positive,,,
 1151,,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Papio hamadryas,LC,,,,,,,,,,,,,
 1151,,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Papio kindae,LC,,,,,,,,,,,,,
 1151,,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Papio yellow,LC,,,,,,,,,,,,,
 1151,,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca mulatta,LC,,,,,,,,,,,,,
 1151,,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Papio guinea,NT,,,,,,,,,,,,,
+1154,2020,Plantae,Angiosperm,Eudicot,Apiales,Apiaceae,Hydrocotyle vulgaris,LC,Asia,MS-AFLP,,,y,,y,AFLP,not_correlated,notcor,y,trait,y
+1155,2021,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea gigas,,Asia,bisulfite sequencing,,,y,,,,,,y,,y
+1157,2021,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus major,LC,Europe,reduced rep,,,y,,,,,,y,,y
+1158,2019,Animalia,Chordata,Aves,Passeriformes,Paridae,Parus major,LC,Europe,ELISA-like,,,,,,,,,y,,
+1159,2016,Animalia,Chordata,Mammalia,Caviidae,Cavia,Cavia aperea,LC,South America,reduced rep,,y,y,,,,,,y,,y
+1160,2020,Animalia,Chordata,Reptilia,Squamata,Dactyloidae,Anolis cristatellus,LC,South America,reduced rep,,,y,,y,SNP,correlated_env_trait,both_env,y,,y
+1161,2020,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Africa;Europe;Australia,bisulfite sequencing,,n,y,,,,,,y,,y
+1163,2020,Plantae,Angiosperm,Monocot,Poales,Poaceaea,Oryza sativa,,Asia,bisulfite sequencing,,,y,,,,,,y,,y
+2002,2018,Plantae,Angiosperm,Pinopsida,Pinales,Pinaceae,Pinus sylvestris,LC,Europe,HPLC,,,y,,,,,,,,
+2003,2019,Plantae,Angiosperm,Magnoliopsida,Sapindales,Anacardiaceae,Pistacia lentiscus,LC,Europe,MS-AFLP,,y,,,y,micro,not_correlated,notcor,y,trait,y
+2006,2019,Plantae,Angiosperm,,,,,,Europe;North America,HPLC,,,,,,,,,,,
+2007,2016,Plantae,Angiosperm,Eudicot,Brassicales,Brassiccaceae,Boechera stricta,,North America,MS-AFLP,,y,,,,,,,y,trait,y
+2014,2015,Plantae,Angiosperm,Magnoliopsida,Rosales,Rosaceae,Prunus avium,LC,Europe,MS-AFLP,,,,,y,micro,not_correlated,notcor,,,
+2019,2021,Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Negaprion brevirostris,VU,Central America,MS-AFLP,,,y,,,,,,,,
+2022,2020,Animalia,Mollusca,Gastropoda,Pteropoda,Limacinidae,Limacina helicina antarctica,,Antarctica,ELISA-like,,,y,,,,,,,,
+2029,2021,Plantae,Angiosperm,Magnoliopsida,Fagales,Fagaceae,Quercus lobata,NT,North America,reduced rep,,,,,y,SNP,sometimes correlated,mixed_unknown,,,
+2042,2020,Plantae,Angiosperm,Magnoliopsida,Ranunculales,Papaveraceae,Corydalis yanhusuo,,Asia,MS-AFLP,,,y,,y,AFLP,not_correlated ,notcor,y,trait,y
+2053,2015,Animalia,Chordata,Cephalaspidomorphi,Petromyzontiformes,Petromyzontidae,Petromyzon marinus,LC,Europe,MS-AFLP,,,,,,,,,y,trait,y
+2055,2021,Animalia,Chordata,Actinopterygii,Salmoniformes,Salmonidae,Coregonus lavaretus,VU,Europe,reduced rep,,,y,,,ddRADseq,,,y,trait,
+2062,2020,Animalia,Cnidaria,Anthozoa,Scleractinia,Poritidae,Porites astreoides,LC,North America,reduced rep,,,y,,y,ddRAD-seq,correlated_positive,cor_positive,,,
+2093,2010,Plantae,Angiosperm,Magnoliopsida,Caryophyllales,Amaranthaceae,Alternanthera philoxeroides,,Asia,MS-AFLP,,,y,,,AFLP,,,y,,y
+2096,2021,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Balaenoptera physalus,VU,Europe,bisulfite sequencing,,,y,y,,,,,,,
+2097,2019,Animalia,Chordata,Amphibia,Anura,Leptodactylidae,Physalaemus pustulosus,LC,South America;North America,MS-AFLP,y,,y,,,,,,y,,
+2099,2019,Plantae,Angiosperm,Magnoliopsida,Lamiales,Plantaginaceae,Plantago lanceolata,,Europe,MS-AFLP,,,y,,y,AFLP,not correlated,notcor,y,,y
+2109,2017,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea virginica,,North America,MS-AFLP,,,y,,,,,,,,y
+2115,2018,Plantae,Angiosperm,Eudicot,Poales,Poaceae,Hordeum brevisubulatum,LC,Asia,MS-AFLP,,,y,,y,"AFLP, SSAP",weakly correlated_positive,cor_positive,,,y
+2131,2017,Plantae,Angiosperm,Eudicot,Ranunculales,Ranunculaceae,Helleborus foetidus,,Europe,MS-AFLP,,,y,,y,micro,unrelated mostly,notcor,y,trait,y
+2156,2020,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassostrea virginica,,North America,reduced rep,y,,,,,,,,,,
+2159,2020,Plantae,Angiosperm,Eudicot,Brassicales,Brassicaceae,Arabidopsis thaliana,,Europe,reduced rep,,,,,y,whole genome SNPs,unrelated in cloned species,notcor,,,
+2166,2017,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Australia,MS-AFLP,,,,,,,,,y,trait,
+2167,2017,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera,DD,Australia,MS-AFLP,,,,,,,,,y,trait,
+2194,2021,Animalia,Chordata,Actinopteri,Salmoniformes,Salmonidae,Oncorhynchus kisutch,,North America,bisulfite sequencing,,,,,y,whole genome SNPs,unrelated,notcor,,,
+2196,2021,Plantae,Angiosperm,Magnoliopsida,Poales,Poaceae,Hordeum vulgare,,Asia,MS-AFLP,,,,,y,micro,yes positively,cor_positive,,,
+2197,2021,Plantae,Angiosperm,Magnoliopsida,Proteales,Nelumbonaceae,Nelumbo nucifera,,Asia;Australia;Europe,bisulfite sequencing,,,,,,,,,y,trait,
+2206,2013,Animalia,Chordata,Aves,Passeriformes,Passeridae,Passer domesticus,LC,Africa,MS-AFLP,,,,,y,micro,"negatively related, correlation r=-0.8",cor_negative,y,,y
+2217,2012,Animalia,Arthropoda,Insecta,Blattodea,Rhinotermitidae,Coptotermes lacteus,,Australia,MS-AFLP,,,,,,,,,,,
+2223,2021,Animalia,Chordata,Mammalia,Cetartiodactyla,Balaenopteridae,Balaenoptera physalus,VU,Europe,reduced rep,,,,,,,,,,,
+2236,2021,Animalia,Chordata,Aves,Passeriformes,Mimidae,Mimus parvulus,LC,South America,reduced rep,y,,,,,,,,,,
+2249,2021,Plantae,Angiosperm,Magnoliopsida,Poales,Poaceae,Deyeuxia angustifolia,,Asia,MS-AFLP,,,y,,y,AFLP,unrelated,notcor,y,,
+2250,2019,Animalia,Chordata,Ascidiacea,Phlebobranchia,Cionidae,Ciona intestinalis,,North America,MS-AFLP,,,y,,,,,,y,trait,y
+2252,2012,Plantae,Angiosperm,Liliopsida,Arecales,Arecaceae,Metroxylon sagu,LC,Asia,HPLC,,,y,,,,,,y,trait,
+2264,2020,Animalia,Arthropoda,Insecta,Hymenoptera,Apidae,Apis mellifera carnica,,Europe,ELISA-like,,,,,,,,,,,
+2273,2013,Animalia,Platyhelminthes,Trematoda,Strigeidida,Schistosomatidae,Schistosoma mansoni,,South America,bisulfite sequencing,y,,,,y,microsat,,mixed_unknown,y,trait,
+2293,2020,Animalia,Cnidaria,Anthozoa,Scleractinia,Acroporidae,Acropora cervicornis,CR,North America,MS-AFLP,,,y,,y,microsat,genets signficantly influences DNA methylation,cor_uk,,,y
+2296,2013,Plantae,Angiosperm,Magnoliopsida,Caryophyllales,Plumbaginaceae,multiple species/hybrids,,South America,MS-AFLP,,,,,,MSAP MspI vs HpaII enzyme ,"correlated positive (high gene flow), negative (low gene flow), and no correlation depending on species and gene flow",,,,
+2297,2017,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Crassotrea gigas,,Europe,bisulfite sequencing,,y,,,,,,,,,
+2298,2017,Plantae,Angiosperm,Magnoliopsida,Rosales,Rosaceae,Prunus avium L.,LC,South America,bisulfite sequencing;chromatin,,,y,,,,,,y,trait,y
+2299,2020,Plantae,Angiosperm,Magnoliopsida,Rosales,Rosaceae,Prunus avium L.,LC,South America,reduced rep,,,y,,,,,,y,trait,
+2301,2020,Animalia,Chordata,Actinopterygii,Perciformes,Pomacentridae,Acanthochromis polyacanthus,LC,Australia,bisulfite sequencing,,n,y,,,,,,y,trait,y
+2309,2020,Animalia,Chordata,Amphibia,Anura,Bufonidae,Rhinella marina,LC,Australia,reduced rep,,,y,,,,,,y,fitness,y
+2314,2016,Animalia,Chordata,Reptilia,Squamata,Phrynosomatidae,Sceloporus undulatus,LC,North America,MS-AFLP,,,,,,,,,y,fitness,y
+2329,2014,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Geospiza fortis,LC,Central America,chromatin,,,,,y,CNV,not correlated,notcor,,,
 2329,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Geospiza fuliginosa,LC,,,,,,,,,,,,,
 2329,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Geospiza scandens,LC,,,,,,,,,,,,,
 2329,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Camarhynchus parvulus,LC,,,,,,,,,,,,,
 2329,,Animalia,Chordata,Aves,Passeriformes,Thraupidae,Platyspiza crassirostris,LC,,,,,,,,,,,,,
+2338,2019,Animalia,Mollusca,Bivalvia,Pterioida,Isognomonidae,Isognomon alatus,,North America,ELISA-like,,,y,,,,,,,,
+2342,2020,Plantae,Angiosperm,Magnoliopsida,Ranunculales,Ranunculaceae,Ranunculus kuepferi,,Europe,MS-AFLP,,,y,,,,,,,,y
+2365,2016,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Lepidochelys olivacea,VU,North America,MS-AFLP,,,y,,,,,,,,
+2366,2015,Plantae,Angiosperm,Liliopsida,Poales,Poaceae,Triticum turgidum ssp. dicoccoides,LC,Asia,MS-AFLP,,,y,,,,,,,,
+2368,2015,Plantae,Angiosperm,Magnoliopsida,Rosales,Rosaceae,multiple,,Europe,MS-AFLP,,y,,,y,"cDNA-AFLP, microsat",correlated_positive,cor_positive,,,
+2370,2020,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Neovison vison,LC,Asia,bisulfite sequencing,,,,,,,,,y,trait,y
+2388,2018,Animalia,Chordata,Actinopterygii,Acipenseriformes,Acipenseridae,Acipenser fulvescens,LC,North America,MS-AFLP,,,,,y,microsat,unknown,notcor,,,
+2391,2013,Plantae,Angiosperm,Magnoliopsida,Fagales,Betulaceae,Betula ermanii,LC,Asia,MS-AFLP,,,y,,,AFLP,,,y,,y
